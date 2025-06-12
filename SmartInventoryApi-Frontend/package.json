@@ -5,5 +5,8 @@
     "@angular/material": "^19.2.17",
     "chart.js": "^4.4.9",
     "ng2-charts": "^8.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.8"
   }
 }
